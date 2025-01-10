@@ -83,13 +83,13 @@ export const projectList = [
   },
   {
     name: "Space Shooter",
-    imageUrl: "",
+    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736493077/Screenshot_2025-01-10_at_12.40.38_PM_eomk0u.png",
     filter: "Flutter,FlutterFlame",
     githubUrl: "https://github.com/navneetdhameliya/spaceshooter.git"
   },
   {
     name: "Tamato Shake",
-    imageUrl: "",
+    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736493170/Screenshot_2025-01-10_at_12.42.07_PM_tow0ad.png",
     filter: "Flutter,FlutterFlame",
     githubUrl: "https://github.com/navneetdhameliya/tomatoshake.git"
   },
@@ -101,7 +101,7 @@ export const projectList = [
   },
   {
     name: "Kyle",
-    imageUrl: "",
+    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736493078/Hello_1_mzkewo.png",
     filter: "Flutter,Getx",
     githubUrl: "https://github.com/navneetdhameliya/Kyle.git"
   },
