@@ -6,7 +6,7 @@ import { useState } from "react";
 
 const Work = () => {
     const [filter, setFilter] = useState("All");
-    const techStack = ["All", "Flutter", "FlutterFlow", "FlutterFlame", "Firebase", "Supabase", "GraphQL/Rest APIs", "Getx", "Bloc", "SQLite"];
+    const techStack = ["All", "Flutter", "FlutterFlow", "FlutterFlame", "Firebase", "Supabase", "GraphQL/Rest APIs", "Getx", "Bloc"];
     const router = useRouter();
 
     return (
