@@ -25,7 +25,7 @@ export default function Home() {
         <Hero />
         <Work />
         {/* <Resources /> */}
-        {/* <Write /> */}
+        <Write />
         <Speak />
       </motion.div>
     </Inner>

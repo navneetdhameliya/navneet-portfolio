@@ -1,108 +1,112 @@
 export const projectList = [
   {
+    name: "Viral My Post-AI Auto Captions",
+    imageUrl:
+      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737463945/Frame_1948757757_mzwfiw.png",
+    filter: "FlutterFlow,Supabase",
+    iosUrl:
+      "https://apps.apple.com/in/app/viral-my-post-ai-auto-captions/id6478857825",
+    androidUrl:
+      "https://play.google.com/store/apps/details?id=io.flutterflow.viralmypost",
+  },
+  {
+    name: "Continue - Journal Reimagined",
+    imageUrl:
+      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737464067/Frame_1948757761_bgfsye.png",
+    filter: "Flutter,Bloc,GraphQL/Rest APIs",
+    androidUrl:
+      "https://play.google.com/store/apps/details?id=com.letspresscontinue.Continuem&hl=en_IN&gl=US",
+  },
+  {
+    name: "Cooddle",
+    imageUrl:
+      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737701217/Frame_1948757794_lztcgd.png",
+    filter: "Flutter,Getx,GraphQL/Rest APIs",
+    iosUrl: "https://apps.apple.com/us/app/cooddle/id6479634264",
+  },
+
+  {
+    name: "Money tracker: Budget expenses",
+    imageUrl:
+      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737701283/Frame_1948757850_mpsjcg.png",
+    filter: "Flutter,Getx,GraphQL/Rest APIs",
+    androidUrl:
+      "https://play.google.com/store/apps/details?id=uy.com.coinapp.coin",
+    iosUrl:
+      "https://apps.apple.com/us/app/coin-finanzas-personales/id1548806607",
+  },
+
+  {
+    name: "eBoox: ePub PDF e-book Reader",
+    imageUrl:
+      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737779302/Screenshot_2025-01-25_at_9.57.01_AM_wvcszq.png",
+    filter: "Flutter,GraphQL/Rest APIs,Getx",
+    androidUrl:
+      "https://play.google.com/store/apps/details?id=com.reader.books&hl=en-IN",
+    iosUrl: "https://apps.apple.com/app/apple-store/id1489172068",
+  },
+  {
     name: "ReRe language notebook",
-    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736421808/Screenshot_2025-01-09_at_4.53.03_PM_l3cmgh.png",
+    imageUrl:
+      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737438967/Frame_1410147071_1_uw8wae.png",
     filter: "FlutterFlow,Firebase ",
     iosUrl: "https://apps.apple.com/in/app/rere-language-notebook/id6484594128",
     webUrl: "https://rere-note.com/",
   },
   {
-    name: "Erato: Ai Story Generator",
-    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736422509/unnamed_hc0spr.webp",
-    filter: "FlutterFlow,Firebase",
-    iosUrl: "https://apps.apple.com/in/app/erato-ai/id6502681570",
-    androidUrl: " https://play.google.com/store/apps/details?id=com.erato.app",
+    name: "Kyle",
+    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737781408/Frame_1948757866_vvzzwa.png",
+    filter: "Flutter,Getx",
+    githubUrl: "https://github.com/navneetdhameliya/Kyle.git",
   },
+
   {
     name: "Voops AI: Virtual influencer",
-    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736422149/Screenshot_2025-01-09_at_4.58.56_PM_oux3bx.png",
+    imageUrl:
+      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737463817/UI_-_UX_App_Presentation_-_Phone_Mockup_2_1_y8grn1.png",
     filter: "FlutterFlow,Firebase,GraphQL/Rest APIs",
-    iosUrl: "https://apps.apple.com/in/app/voops-ai-virtual-influencer/id6670240082",
+    iosUrl:
+      "https://apps.apple.com/in/app/voops-ai-virtual-influencer/id6670240082",
     webUrl: "https://app.voops.ai/",
     androidUrl: "https://play.google.com/store/apps/details?id=com.voops.ai",
   },
   {
-    name: "Viral My Post-AI Auto Captions",
-    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736422707/unnamed_1_ergnsp.webp",
-    filter: "FlutterFlow,Supabase",
-    iosUrl: "https://apps.apple.com/in/app/viral-my-post-ai-auto-captions/id6478857825",
-    androidUrl: "https://play.google.com/store/apps/details?id=io.flutterflow.viralmypost",
-  },
-  {
-    name: "Continue - Journal Reimagined",
-    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736423313/unnamed_rctvqt.webp",
-    filter: "Flutter,Bloc,GraphQL/Rest APIs",
-    androidUrl: "https://play.google.com/store/apps/details?id=com.letspresscontinue.Continuem&hl=en_IN&gl=US",
-  },
-  {
-    name: "Cooddle",
-    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736423434/313x0w_p7hd85.webp",
-    filter: "Flutter,Getx,GraphQL/Rest APIs",
-    iosUrl: "https://apps.apple.com/us/app/cooddle/id6479634264",
-  },
-  {
-    name: "Money tracker: Budget expenses",
-    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736423919/unnamed_1_bgqbjn.webp",
-    filter: "Flutter,Getx,GraphQL/Rest APIs",
-    androidUrl: "https://play.google.com/store/apps/details?id=uy.com.coinapp.coin",
-    iosUrl: "https://apps.apple.com/us/app/coin-finanzas-personales/id1548806607",
-  },
-  // {
-  //   name: "ToyTopia: Block Puzzle",
-  //   imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736425212/unnamed_2_pph2hi.webp",
-  //   filter: "Flutter,SQLite",
-  //   androidUrl: "https://play.google.com/store/apps/details?id=com.DreamLoft.ToyTopia",
-  //   iosUrl: "https://apps.apple.com/us/app/game-of-words-word-puzzles/id1412024414",
-  // },
-  // {
-  //   name: "eBoox: ePub PDF e-book Reader",
-  //   imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736425376/unnamed_3_kgzlqu.webp",
-  //   filter: "Flutter,GraphQL/Rest APIs,Getx",
-  //   androidUrl: "https://play.google.com/store/apps/details?id=com.reader.books&hl=en-IN",
-  //   iosUrl: "https://apps.apple.com/app/apple-store/id1489172068",
-  // },
-  // {
-  //   name: "Justlife (Home Services)",
-  //   imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736425627/unnamed_4_jia2k5.webp",
-  //   filter: "Flutter,GraphQL/Rest APIs,Bloc",
-  //   androidUrl: "https://play.google.com/store/apps/details?id=com.mobile.justmop&hl=en_IN&gl=US",
-  //   iosUrl: "https://apps.apple.com/ae/app/justlife-home-services/id1107705982",
-  // },
-  // {
-  //   name: "Photo Editor & Text Art ",
-  //   imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736425813/313x0w_iuylrl.webp",
-  //   filter: "Flutter",
-  //   iosUrl: "https://apps.apple.com/in/app/photo-editor-text-art/id1577297714",
-  // },
-  {
     name: "Rose: Smarter Mental Health",
-    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736425984/unnamed_zkqkbj.webp",
+    imageUrl:
+      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737701272/Frame_1948757847_zloead.png",
     filter: "Flutter,Getx,GraphQL/Rest APIs",
-    androidUrl: "https://play.google.com/store/apps/details?id=com.askrose.android",
-    iosUrl: "https://apps.apple.com/us/app/rose-smarter-mental-health/id1454630070?ls=1",
+    androidUrl:
+      "https://play.google.com/store/apps/details?id=com.askrose.android",
+    iosUrl:
+      "https://apps.apple.com/us/app/rose-smarter-mental-health/id1454630070?ls=1",
   },
+
   {
     name: "Space Shooter",
-    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736493077/Screenshot_2025-01-10_at_12.40.38_PM_eomk0u.png",
+    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737780572/Screenshot_2025-01-25_at_10.15.23_AM_vq6zta.png",
     filter: "Flutter,FlutterFlame",
-    githubUrl: "https://github.com/navneetdhameliya/spaceshooter.git"
+    githubUrl: "https://github.com/navneetdhameliya/spaceshooter.git",
   },
   {
-    name: "Tamato Shake",
-    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736493170/Screenshot_2025-01-10_at_12.42.07_PM_tow0ad.png",
+    name: "To7mato Shake",
+    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737780537/Screenshot_2025-01-25_at_10.12.17_AM_thwqj8.png",
     filter: "Flutter,FlutterFlame",
-    githubUrl: "https://github.com/navneetdhameliya/tomatoshake.git"
+    githubUrl: "https://github.com/navneetdhameliya/tomatoshake.git",
   },
   {
     name: "Tic Tac Toe",
-    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736426033/ticTacToe_Splash_ywcivf.png",
+    imageUrl:
+      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737780538/Screenshot_2025-01-25_at_10.13.03_AM_1_wfmgkn.png",
     filter: "Flutter,FlutterFlame",
-    githubUrl: "https://github.com/navneetdhameliya/tictacToe.git"
+    githubUrl: "https://github.com/navneetdhameliya/tictacToe.git",
   },
   {
-    name: "Kyle",
-    imageUrl: "https://res.cloudinary.com/ddglb9gp6/image/upload/v1736493078/Hello_1_mzkewo.png",
-    filter: "Flutter,Getx",
-    githubUrl: "https://github.com/navneetdhameliya/Kyle.git"
+    name: "Erato: Ai Story Generator",
+    imageUrl:
+      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737436681/Frame_1410147085_hs9fdh.png",
+    filter: "FlutterFlow,Firebase",
+    iosUrl: "https://apps.apple.com/in/app/erato-ai/id6502681570",
+    androidUrl: " https://play.google.com/store/apps/details?id=com.erato.app",
   },
+  
 ];

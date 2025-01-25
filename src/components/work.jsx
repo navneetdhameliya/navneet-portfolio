@@ -6,17 +6,20 @@ import { useState } from "react";
 
 const Work = () => {
     const [filter, setFilter] = useState("All");
-    const techStack = ["All", "Flutter", "FlutterFlow", "FlutterFlame", "Firebase", "Supabase", "GraphQL/Rest APIs", "Getx", "Bloc"];
+    const techStack = ["All", "Flutter", "FlutterFlow", "FlutterFlame", "Firebase", "Supabase", "GraphQL/Rest APIs", "Getx", "Bloc", "SQLite"];
     const router = useRouter();
 
     return (
         <div className="mt-[100px]">
-            <div className="px-10 py-5 lg:px-20 lg:py-10">
+                <div className="px-10 py-5 lg:px-20 lg:py-10">
                 <div className="lg:ps-40 flex flex-wrap gap-4">
                     {techStack.map((tech) => (
                         <button
                             key={tech}
-                            className={`border rounded-full py-1 px-3 transition-all ${filter === tech ? "bg-white text-black hover:bg-white" : "hover:bg-zinc-900"}`}
+                            className={`border rounded-full py-1 px-3 transition-all ${filter === tech
+                                    ? "bg-white text-black hover:bg-white"
+                                    : " hover:bg-white hover:text-black"
+                                }`}
                             onClick={() => setFilter(tech)}
                         >
                             {tech}
