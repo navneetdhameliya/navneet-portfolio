@@ -14,7 +14,7 @@ const Hero = () => {
                 <div>Navneet.</div>
             </div>
             <p className="lg:ps-40 text-lg lg:text-xl mt-10 lg:max-w-7xl">
-                I am a dynamic and innovative Mobile Application and Web Developer, expertly blending the strengths of <span className="bg-gray-300 px-1 py-1 rounded-md  text-black">Flutter</span>, <span className="bg-gray-300 px-1 py-1 rounded-md  text-black">FlutterFlow</span>, <span className="bg-gray-300 px-1 py-1 rounded-md  text-black">Flutter Web</span>, and <span className="bg-gray-300 px-1 py-1 rounded-md  text-black">ReactJS/TypeScript</span> to create exceptional mobile and web experiences. With over 7 years of hands-on experience crafting cutting-edge Mobile Apps using Flutter, an additional 2 years specializing in FlutterFlow, and 1 year mastering HTML, CSS, ReactJS/TypeScript, I offer a unique mix of technical prowess and imaginative problem-solving.
+                I am a dynamic and innovative Mobile Application and Web Developer, expertly blending the strengths of <span className="bg-gray-300 px-1 py-1 rounded-md  text-black">Flutter</span>, <span className="bg-gray-300 px-1 py-1 rounded-md  text-black">FlutterFlow</span>, <span className="bg-gray-300 px-1 py-1 rounded-md  text-black">Flutter Web</span>, and <span className="bg-gray-300 px-1 py-1 rounded-md  text-black">NodeJs</span> to create exceptional mobile and web experiences. With over 7 years of hands-on experience crafting cutting-edge Mobile Apps using Flutter, an additional 2 years specializing in FlutterFlow, and 1 year mastering HTML, CSS, ReactJS/TypeScript, I offer a unique mix of technical prowess and imaginative problem-solving.
             </p>
             <div className="lg:ps-40 mt-5">
                 <Link
