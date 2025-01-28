@@ -39,7 +39,7 @@ export const projectList = [
   {
     name: "eBoox: ePub PDF e-book Reader",
     imageUrl:
-      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737779302/Screenshot_2025-01-25_at_9.57.01_AM_wvcszq.png",
+      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1738059736/epub_viewer_l9kgu1.png",
     filter: "Flutter,GraphQL/Rest APIs,Getx",
     androidUrl:
       "https://play.google.com/store/apps/details?id=com.reader.books&hl=en-IN",
@@ -85,7 +85,7 @@ export const projectList = [
   {
     name: "Tamato Shake",
     imageUrl:
-      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737780537/Screenshot_2025-01-25_at_10.12.17_AM_thwqj8.png",
+      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1738059235/Frame_1948757870_uiqy9w.png",
     filter: "Flutter,FlutterFlame",
     githubUrl: "https://github.com/navneetdhameliya/tomatoshake.git",
   },
