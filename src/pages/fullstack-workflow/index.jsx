@@ -148,7 +148,7 @@ const FullStackWorkflows = () => {
                                 Thanks for reading! I hope these strategies inspire you to refine your flutter workflows. If you have any questions or want to share your experiences, feel free to connect with me.
                             </p>
 
-                            <p className="mt-10 font-medium text-xl">Gopi Navadiya</p>
+                            <p className="mt-10 font-medium text-xl">Navneet Dhameliya</p>
                         </div>
                     </div>
                 </motion.div>
