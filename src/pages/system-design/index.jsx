@@ -102,7 +102,7 @@ const SystemDesign = () => {
                                 Thanks for reading! If you have any questions or need help designing your next big system, feel free to reach out. Let&apos;s build something amazing together.
                             </p>
 
-                            <p className="mt-10 font-medium text-xl">Navneet Dhameliya</p>
+                            <p className="mt-10 font-medium text-xl">Artonest Technosys</p>
                         </div>
                     </div>
                 </motion.div>
