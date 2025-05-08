@@ -18,7 +18,7 @@ const Hero = () => {
             </p>
             <div className="lg:ps-40 mt-5">
                 <Link
-                    href={"https://calendly.com/work-navneetvd/30min"}
+                    href={"https://cal.com/artonest/development-service-call"}
                     target="_blank"
                 >   <button
                 data-cursor="-hidden"
