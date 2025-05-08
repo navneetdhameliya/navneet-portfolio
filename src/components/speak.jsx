@@ -11,13 +11,6 @@ const Speak = () => {
                 <p className="mt-[24px] lg:max-w-[700px] text-opacity-50">
                     Through conferences, workshops, and webinars, our team shares valuable insights on cross-platform development, modern UI/UX design, and mobile app technologies—aiming to inspire, educate, and engage developers, businesses, and tech enthusiasts. Our mission is to spark creativity and help turn bold ideas into powerful digital products.
                 </p>
-                <button
-                    data-cursor="-hidden"
-                    className="mt-[24px] rounded-full py-2 hover:text-black hover:bg-white px-3 border flex items-center gap-x-4"
-                    onClick={() => window.location.href = 'mailto:navneetdhameliyad@gmail.com'}
-                >
-                    Say hi <ArrowRight size={20} />
-                </button>
                 <div className="mt-[100px] flex gap-x-8 flex-wrap">
                     <div>
                         <a href="https://www.linkedin.com/company/artonest-technosys" target="_blank" className="flex items-center gap-x-4 hover:text-blue-500">
