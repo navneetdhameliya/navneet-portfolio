@@ -12,7 +12,7 @@ const Write = () => {
             <div className="lg:ps-40">
                 <div className="text-4xl">Write</div>
                 <p className="mt-[24px] lg:max-w-[700px] text-opacity-50">
-                    I really enjoy writing because it allows me to express my thoughts and ideas clearly and creatively. turning words into meaningful stories and engaging content brings me a lot of satisfaction.
+                   At Artonest Technosys, we take pride in our ability to craft compelling content and clear communication. Writing isn't just a task for us—it's a way to creatively express ideas, tell meaningful stories, and connect with our audience through engaging, purposeful language.
                 </p>
                 <div className="mt-[50px]">
                     <div className="grid lg:grid-cols-4 gap-x-4 gap-y-8">
