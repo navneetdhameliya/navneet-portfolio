@@ -1,4 +1,26 @@
 export const projectList = [
+   {
+    name: "Money tracker: Budget expenses",
+    imageUrl:
+      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737955701/Frame_1948757850_dmk69r.png",
+    filter: "Flutter,Getx,GraphQL/Rest APIs",
+    androidUrl:
+      "https://play.google.com/store/apps/details?id=uy.com.coinapp.coin",
+    iosUrl:
+      "https://apps.apple.com/us/app/coin-finanzas-personales/id1548806607",
+  },
+  
+  {
+    name: "Voops AI: Virtual influencer",
+    imageUrl:
+      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737959329/Frame_1948757752_iu2vej.png",
+    filter: "FlutterFlow,Firebase,GraphQL/Rest APIs",
+    iosUrl:
+      "https://apps.apple.com/in/app/voops-ai-virtual-influencer/id6670240082",
+    webUrl: "https://app.voops.ai/",
+    androidUrl: "https://play.google.com/store/apps/details?id=com.voops.ai",
+  },
+  
   {
     name: "Viral My Post-AI Auto Captions",
     imageUrl:
@@ -26,17 +48,6 @@ export const projectList = [
   },
 
   {
-    name: "Money tracker: Budget expenses",
-    imageUrl:
-      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737955701/Frame_1948757850_dmk69r.png",
-    filter: "Flutter,Getx,GraphQL/Rest APIs",
-    androidUrl:
-      "https://play.google.com/store/apps/details?id=uy.com.coinapp.coin",
-    iosUrl:
-      "https://apps.apple.com/us/app/coin-finanzas-personales/id1548806607",
-  },
-
-  {
     name: "eBoox: ePub PDF e-book Reader",
     imageUrl:
       "https://res.cloudinary.com/ddglb9gp6/image/upload/v1738059736/epub_viewer_l9kgu1.png",
@@ -52,17 +63,6 @@ export const projectList = [
     filter: "FlutterFlow,Firebase ",
     iosUrl: "https://apps.apple.com/in/app/rere-language-notebook/id6484594128",
     webUrl: "https://rere-note.com/",
-  },
-
-  {
-    name: "Voops AI: Virtual influencer",
-    imageUrl:
-      "https://res.cloudinary.com/ddglb9gp6/image/upload/v1737959329/Frame_1948757752_iu2vej.png",
-    filter: "FlutterFlow,Firebase,GraphQL/Rest APIs",
-    iosUrl:
-      "https://apps.apple.com/in/app/voops-ai-virtual-influencer/id6670240082",
-    webUrl: "https://app.voops.ai/",
-    androidUrl: "https://play.google.com/store/apps/details?id=com.voops.ai",
   },
   {
     name: "Rose: Smarter Mental Health",
