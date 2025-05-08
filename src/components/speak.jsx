@@ -26,9 +26,15 @@ const Speak = () => {
                         </a>
                     </div>
                     <div>
-                        <a href="https://github.com/navneetdhameliya" target="_blank" className="flex items-center gap-x-4 hover:text-blue-500">
+                        <a href="mailto:sales.artonest@gmail.com" target="_blank" className="flex items-center gap-x-4 hover:text-blue-500">
                             <span><Dot /></span>
-                            <span>Github</span>
+                            <span>sales.artonest@gmail.com</span>
+                        </a>
+                    </div>
+                    <div>
+                        <a href="tel:+919316047937" target="_blank" className="flex items-center gap-x-4 hover:text-blue-500">
+                            <span><Dot /></span>
+                            <span>+91 93160 47937</span>
                         </a>
                     </div>
                 </div>
