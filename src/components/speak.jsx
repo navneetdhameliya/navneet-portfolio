@@ -20,7 +20,7 @@ const Speak = () => {
                 </button>
                 <div className="mt-[100px] flex gap-x-8 flex-wrap">
                     <div>
-                        <a href="https://www.linkedin.com/in/navneet-dhameliya-a4ba54205/" target="_blank" className="flex items-center gap-x-4 hover:text-blue-500">
+                        <a href="https://www.linkedin.com/company/artonest-technosys" target="_blank" className="flex items-center gap-x-4 hover:text-blue-500">
                             <span><Dot /></span>
                             <span>Linkedin</span>
                         </a>
