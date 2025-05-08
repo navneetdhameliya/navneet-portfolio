@@ -6,10 +6,10 @@ const Speak = () => {
             <div className="lg:ps-40">
                 <div className="text-4xl">Speak</div>
                 <p className="mt-[24px] lg:max-w-[700px] text-opacity-50">
-                    I&apos;m passionate about sharing knowledge and igniting conversations in the tech world. Whether it&apos;s building beautiful apps with Flutter and FlutterFlow, I love exploring and discussing innovative solutions.
+                    we’re passionate about sharing knowledge and driving meaningful conversations in the tech industry. We specialize in building intuitive, high-performance applications using Flutter and FlutterFlow, and we’re always exploring innovative technologies to deliver forward-thinking solutions that push the boundaries of what’s possible.
                 </p>
                 <p className="mt-[24px] lg:max-w-[700px] text-opacity-50">
-                    At conferences, workshops, and webinars, I share insights on cross-platform development, modern UI/UX design, and mobile app technologies, aiming to inspire, educate, and engage developers and tech enthusiasts. Through my journey, I hope to spark creativity and help others bring their ideas to life.
+                    Through conferences, workshops, and webinars, our team shares valuable insights on cross-platform development, modern UI/UX design, and mobile app technologies—aiming to inspire, educate, and engage developers, businesses, and tech enthusiasts. Our mission is to spark creativity and help turn bold ideas into powerful digital products.
                 </p>
                 <button
                     data-cursor="-hidden"
